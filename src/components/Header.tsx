@@ -5,6 +5,7 @@
 +import LanguageSelector from './LanguageSelector';
  
  const Header: React.FC = () => {
+ }
 +  const { t } = useLanguage();
 +
    return (
@@ -47,3 +48,4 @@
 +};
 +
 +export default Header;
+   )

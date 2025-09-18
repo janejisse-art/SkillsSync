@@ -9,6 +9,7 @@
  
  const ResumeUpload: React.FC = () => {
    const { resumeData, setResumeData, isAnalyzing, setIsAnalyzing } = useResumeContext();
+ }
 +  const { t } = useLanguage();
    const [uploadProgress, setUploadProgress] = useState(0);
  
@@ -77,6 +78,7 @@
            <div className="w-12 h-12 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center mx-auto mb-4">
              <FileText className="w-6 h-6 text-white" />
            </div>
+}
 -          <h3 className="font-semibold text-gray-900 mb-2">AI Analysis</h3>
 -          <p className="text-gray-600 text-sm">Get detailed feedback on your resume with AI-powered insights</p>
 +          <h3 className="font-semibold text-gray-900 mb-2">{t('features.ai_analysis')}</h3>
