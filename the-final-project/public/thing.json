@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Frontend Developer Intern",
+    "company": "TechFlow",
+    "location": "San Francisco, CA",
+    "category": "Web Development",
+    "description": "Work with our design and development teams to build responsive web applications using modern frontend technologies. You'll contribute to user interface development and learn best practices in web development.",
+    "skills_required": ["React", "JavaScript", "HTML", "CSS", "TypeScript", "Git", "REST APIs"]
+  },
+  {
+    "title": "Full Stack Developer Intern", 
+    "company": "DevCorp",
+    "location": "Austin, TX",
+    "category": "Software Development",
+    "description": "Join our engineering team to work on both frontend and backend development. You'll gain experience with the complete software development lifecycle and modern web technologies.",
+    "skills_required": ["Node.js", "React", "JavaScript", "Express", "MongoDB", "Git", "REST APIs", "HTML", "CSS"]
+  },
+  {
+    "title": "Mobile App Developer Intern",
+    "company": "AppLab",
+    "location": "Seattle, WA", 
+    "category": "Mobile Development",
+    "description": "Develop cross-platform mobile applications using Flutter. You'll work on user-facing features and learn mobile app development best practices.",
+    "skills_required": ["Flutter", "Dart", "Firebase", "Git", "REST APIs", "Mobile UI/UX"]
+  },
+  {
+    "title": "Data Science Intern",
+    "company": "DataTech",
+    "location": "Boston, MA",
+    "category": "Data Science",
+    "description": "Analyze large datasets and build machine learning models to derive insights. You'll work with our data science team on real-world problems.",
+    "skills_required": ["Python", "Pandas", "NumPy", "Machine Learning", "SQL", "TensorFlow", "Data Visualization"]
+  },
+  {
+    "title": "DevOps Engineering Intern",
+    "company": "CloudOps",
+    "location": "Denver, CO",
+    "category": "DevOps",
+    "description": "Learn infrastructure management and deployment automation. You'll work with containerization, CI/CD pipelines, and cloud platforms.",
+    "skills_required": ["Docker", "Kubernetes", "AWS", "Linux", "Git", "CI/CD", "Jenkins", "Python"]
+  },
+  {
+    "title": "Backend Developer Intern",
+    "company": "ServerTech",
+    "location": "Chicago, IL",
+    "category": "Backend Development", 
+    "description": "Design and develop scalable backend services and APIs. You'll work with databases, server-side logic, and learn about distributed systems.",
+    "skills_required": ["Node.js", "Express", "PostgreSQL", "REST APIs", "Git", "Docker", "SQL"]
+  },
+  {
+    "title": "AI/ML Research Intern",
+    "company": "AI Innovations",
+    "location": "Palo Alto, CA",
+    "category": "Artificial Intelligence",
+    "description": "Research and develop AI models for natural language processing applications. You'll work with cutting-edge ML frameworks and contribute to research projects.",
+    "skills_required": ["Python", "TensorFlow", "PyTorch", "NLP", "Transformers", "Deep Learning", "Git"]
+  },
+  {
+    "title": "Cybersecurity Intern",
+    "company": "SecureNet",
+    "location": "Washington, DC",
+    "category": "Cybersecurity",
+    "description": "Learn about information security, threat analysis, and security testing. You'll work with security tools and help maintain secure systems.",
+    "skills_required": ["Networking", "Linux", "Python", "SIEM Tools", "Threat Analysis", "Burp Suite", "OWASP"]
+  },
+  {
+    "title": "UI/UX Design Intern",
+    "company": "DesignLab",
+    "location": "Los Angeles, CA",
+    "category": "Design",
+    "description": "Create user-centered designs for web and mobile applications. You'll work on wireframes, prototypes, and collaborate with development teams.",
+    "skills_required": ["Figma", "Adobe XD", "Sketch", "Prototyping", "User Research", "HTML", "CSS"]
+  },
+  {
+    "title": "Blockchain Developer Intern",
+    "company": "CryptoTech",
+    "location": "Miami, FL",
+    "category": "Blockchain",
+    "description": "Develop decentralized applications and smart contracts. You'll learn blockchain technology and contribute to Web3 projects.",
+    "skills_required": ["Solidity", "Ethereum", "Web3.js", "JavaScript", "Smart Contracts", "Git"]
+  },
+  {
+    "title": "Quality Assurance Intern",
+    "company": "TestPro",
+    "location": "Portland, OR",
+    "category": "Quality Assurance",
+    "description": "Learn software testing methodologies and automation. You'll write test cases, perform manual testing, and work with automation tools.",
+    "skills_required": ["Testing", "Selenium", "Python", "JavaScript", "Git", "Test Automation", "SQL"]
+  },
+  {
+    "title": "Product Management Intern",
+    "company": "ProductCo",
+    "location": "New York, NY",
+    "category": "Product Management",
+    "description": "Work with product teams to define requirements and roadmaps. You'll learn about user research, market analysis, and product strategy.",
+    "skills_required": ["Product Strategy", "User Research", "Data Analysis", "SQL", "Excel", "Figma"]
+  },
+  {
+    "title": "Cloud Architecture Intern",
+    "company": "CloudFirst",
+    "location": "Phoenix, AZ",
+    "category": "Cloud Computing",
+    "description": "Design and implement cloud-based solutions using AWS services. You'll learn about scalable architecture and cloud best practices.",
+    "skills_required": ["AWS", "Docker", "Kubernetes", "Python", "Terraform", "Linux", "Git"]
+  },
+  {
+    "title": "Game Developer Intern",
+    "company": "GameStudio",
+    "location": "San Diego, CA",
+    "category": "Game Development",
+    "description": "Develop interactive games and gaming features. You'll work with game engines and learn about game design principles.",
+    "skills_required": ["Unity", "C#", "JavaScript", "Game Design", "3D Modeling", "Git"]
+  },
+  {
+    "title": "Database Administrator Intern",
+    "company": "DataSys",
+    "location": "Atlanta, GA",
+    "category": "Database Management",
+    "description": "Learn database design, optimization, and maintenance. You'll work with various database systems and learn about data management.",
+    "skills_required": ["SQL", "PostgreSQL", "MySQL", "Database Design", "Python", "Data Modeling"]
+  },
+  {
+    "title": "Site Reliability Engineer Intern",
+    "company": "ReliableOps",
+    "location": "San Jose, CA",
+    "category": "Site Reliability",
+    "description": "Ensure system reliability and performance. You'll work on monitoring, incident response, and system optimization.",
+    "skills_required": ["Linux", "Python", "Docker", "Kubernetes", "Monitoring", "AWS", "Git"]
+  },
+  {
+    "title": "API Developer Intern",
+    "company": "APIFirst",
+    "location": "Minneapolis, MN",
+    "category": "API Development",
+    "description": "Design and develop RESTful APIs and microservices. You'll learn about API design patterns and backend architecture.",
+    "skills_required": ["Node.js", "Express", "REST APIs", "PostgreSQL", "Docker", "Git", "API Design"]
+  },
+  {
+    "title": "Data Engineer Intern",
+    "company": "BigData Solutions",
+    "location": "Dallas, TX",
+    "category": "Data Engineering",
+    "description": "Build and maintain data pipelines and ETL processes. You'll work with big data technologies and learn about data architecture.",
+    "skills_required": ["Python", "SQL", "Apache Spark", "ETL", "AWS", "Docker", "Data Pipelines"]
+  },
+  {
+    "title": "React Native Developer Intern",
+    "company": "MobileFirst",
+    "location": "Nashville, TN",
+    "category": "Mobile Development",
+    "description": "Develop cross-platform mobile apps using React Native. You'll work on mobile features and learn about mobile development best practices.",
+    "skills_required": ["React Native", "JavaScript", "React", "Mobile Development", "Git", "REST APIs"]
+  },
+  {
+    "title": "Software Testing Intern",
+    "company": "QualityFirst",
+    "location": "Salt Lake City, UT",
+    "category": "Software Testing",
+    "description": "Learn automated testing frameworks and quality assurance processes. You'll write tests and work on continuous integration.",
+    "skills_required": ["JavaScript", "Testing", "Cypress", "Jest", "Git", "CI/CD", "Test Automation"]
+  }
+]
